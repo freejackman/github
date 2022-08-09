@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freejackman
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on some people who can help me if I have some difficults
 - 📫 How to reach me ...
 
 <!---
